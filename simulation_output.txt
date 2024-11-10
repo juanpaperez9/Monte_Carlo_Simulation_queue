@@ -1,0 +1,10 @@
+Total customers generated: 89
+Total customers served: 89
+Customers left in queue: 0
+Average wait time for served customers: 17.01
+Maximum wait time: 111
+Minimum wait time: 27
+Average queue length: 14.22
+Max queue length: 24
+Teller utilization: 61.67%
+Total customers served: 89
