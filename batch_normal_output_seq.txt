@@ -1,0 +1,2400 @@
+Total customers generated: 365
+Total customers served: 365
+Customers left in queue: 0
+365,364,1,105.47,933,162,46.05,82,57.15%,364
+Average wait time for served customers: 105.47
+Maximum wait time: 933
+Minimum wait time: 162
+Average queue length: 46.05
+Max queue length: 82
+Teller utilization: 57.15%
+Total customers served: 364
+Total execution time: 0.00 seconds
+Total customers generated: 365
+Total customers served: 365
+Customers left in queue: 0
+365,364,1,105.47,933,162,46.05,82,57.15%,364
+Average wait time for served customers: 105.47
+Maximum wait time: 933
+Minimum wait time: 162
+Average queue length: 46.05
+Max queue length: 82
+Teller utilization: 57.15%
+Total customers served: 364
+Total execution time: 0.00 seconds
+Total customers generated: 365
+Total customers served: 365
+Customers left in queue: 0
+365,364,1,105.47,933,162,46.05,82,57.15%,364
+Average wait time for served customers: 105.47
+Maximum wait time: 933
+Minimum wait time: 162
+Average queue length: 46.05
+Max queue length: 82
+Teller utilization: 57.15%
+Total customers served: 364
+Total execution time: 0.00 seconds
+Total customers generated: 365
+Total customers served: 365
+Customers left in queue: 0
+365,364,1,105.47,933,162,46.05,82,57.15%,364
+Average wait time for served customers: 105.47
+Maximum wait time: 933
+Minimum wait time: 162
+Average queue length: 46.05
+Max queue length: 82
+Teller utilization: 57.15%
+Total customers served: 364
+Total execution time: 0.00 seconds
+Total customers generated: 365
+Total customers served: 365
+Customers left in queue: 0
+365,364,1,105.47,933,162,46.05,82,57.15%,364
+Average wait time for served customers: 105.47
+Maximum wait time: 933
+Minimum wait time: 162
+Average queue length: 46.05
+Max queue length: 82
+Teller utilization: 57.15%
+Total customers served: 364
+Total execution time: 0.00 seconds
+Total customers generated: 365
+Total customers served: 365
+Customers left in queue: 0
+365,364,1,105.47,933,162,46.05,82,57.15%,364
+Average wait time for served customers: 105.47
+Maximum wait time: 933
+Minimum wait time: 162
+Average queue length: 46.05
+Max queue length: 82
+Teller utilization: 57.15%
+Total customers served: 364
+Total execution time: 0.00 seconds
+Total customers generated: 365
+Total customers served: 365
+Customers left in queue: 0
+365,364,1,105.47,933,162,46.05,82,57.15%,364
+Average wait time for served customers: 105.47
+Maximum wait time: 933
+Minimum wait time: 162
+Average queue length: 46.05
+Max queue length: 82
+Teller utilization: 57.15%
+Total customers served: 364
+Total execution time: 0.00 seconds
+Total customers generated: 365
+Total customers served: 365
+Customers left in queue: 0
+365,364,1,105.47,933,162,46.05,82,57.15%,364
+Average wait time for served customers: 105.47
+Maximum wait time: 933
+Minimum wait time: 162
+Average queue length: 46.05
+Max queue length: 82
+Teller utilization: 57.15%
+Total customers served: 364
+Total execution time: 0.00 seconds
+Total customers generated: 365
+Total customers served: 365
+Customers left in queue: 0
+365,364,1,105.47,933,162,46.05,82,57.15%,364
+Average wait time for served customers: 105.47
+Maximum wait time: 933
+Minimum wait time: 162
+Average queue length: 46.05
+Max queue length: 82
+Teller utilization: 57.15%
+Total customers served: 364
+Total execution time: 0.00 seconds
+Total customers generated: 365
+Total customers served: 365
+Customers left in queue: 0
+365,364,1,105.47,933,162,46.05,82,57.15%,364
+Average wait time for served customers: 105.47
+Maximum wait time: 933
+Minimum wait time: 162
+Average queue length: 46.05
+Max queue length: 82
+Teller utilization: 57.15%
+Total customers served: 364
+Total execution time: 0.00 seconds
+Total customers generated: 365
+Total customers served: 365
+Customers left in queue: 0
+365,364,1,105.47,933,162,46.05,82,57.15%,364
+Average wait time for served customers: 105.47
+Maximum wait time: 933
+Minimum wait time: 162
+Average queue length: 46.05
+Max queue length: 82
+Teller utilization: 57.15%
+Total customers served: 364
+Total execution time: 0.00 seconds
+Total customers generated: 365
+Total customers served: 365
+Customers left in queue: 0
+365,364,1,105.47,933,162,46.05,82,57.15%,364
+Average wait time for served customers: 105.47
+Maximum wait time: 933
+Minimum wait time: 162
+Average queue length: 46.05
+Max queue length: 82
+Teller utilization: 57.15%
+Total customers served: 364
+Total execution time: 0.00 seconds
+Total customers generated: 348
+Total customers served: 348
+Customers left in queue: 0
+348,347,1,103.44,824,137,41.68,73,51.60%,347
+Average wait time for served customers: 103.44
+Maximum wait time: 824
+Minimum wait time: 137
+Average queue length: 41.68
+Max queue length: 73
+Teller utilization: 51.60%
+Total customers served: 347
+Total execution time: 0.00 seconds
+Total customers generated: 348
+Total customers served: 348
+Customers left in queue: 0
+348,347,1,103.44,824,137,41.68,73,51.60%,347
+Average wait time for served customers: 103.44
+Maximum wait time: 824
+Minimum wait time: 137
+Average queue length: 41.68
+Max queue length: 73
+Teller utilization: 51.60%
+Total customers served: 347
+Total execution time: 0.00 seconds
+Total customers generated: 348
+Total customers served: 348
+Customers left in queue: 0
+348,347,1,103.44,824,137,41.68,73,51.60%,347
+Average wait time for served customers: 103.44
+Maximum wait time: 824
+Minimum wait time: 137
+Average queue length: 41.68
+Max queue length: 73
+Teller utilization: 51.60%
+Total customers served: 347
+Total execution time: 0.00 seconds
+Total customers generated: 348
+Total customers served: 348
+Customers left in queue: 0
+348,347,1,103.44,824,137,41.68,73,51.60%,347
+Average wait time for served customers: 103.44
+Maximum wait time: 824
+Minimum wait time: 137
+Average queue length: 41.68
+Max queue length: 73
+Teller utilization: 51.60%
+Total customers served: 347
+Total execution time: 0.00 seconds
+Total customers generated: 348
+Total customers served: 348
+Customers left in queue: 0
+348,347,1,103.44,824,137,41.68,73,51.60%,347
+Average wait time for served customers: 103.44
+Maximum wait time: 824
+Minimum wait time: 137
+Average queue length: 41.68
+Max queue length: 73
+Teller utilization: 51.60%
+Total customers served: 347
+Total execution time: 0.00 seconds
+Total customers generated: 348
+Total customers served: 348
+Customers left in queue: 0
+348,347,1,103.44,824,137,41.68,73,51.60%,347
+Average wait time for served customers: 103.44
+Maximum wait time: 824
+Minimum wait time: 137
+Average queue length: 41.68
+Max queue length: 73
+Teller utilization: 51.60%
+Total customers served: 347
+Total execution time: 0.00 seconds
+Total customers generated: 348
+Total customers served: 348
+Customers left in queue: 0
+348,347,1,103.44,824,137,41.68,73,51.60%,347
+Average wait time for served customers: 103.44
+Maximum wait time: 824
+Minimum wait time: 137
+Average queue length: 41.68
+Max queue length: 73
+Teller utilization: 51.60%
+Total customers served: 347
+Total execution time: 0.00 seconds
+Total customers generated: 348
+Total customers served: 348
+Customers left in queue: 0
+348,347,1,103.44,824,137,41.68,73,51.60%,347
+Average wait time for served customers: 103.44
+Maximum wait time: 824
+Minimum wait time: 137
+Average queue length: 41.68
+Max queue length: 73
+Teller utilization: 51.60%
+Total customers served: 347
+Total execution time: 0.00 seconds
+Total customers generated: 348
+Total customers served: 348
+Customers left in queue: 0
+348,347,1,103.44,824,137,41.68,73,51.60%,347
+Average wait time for served customers: 103.44
+Maximum wait time: 824
+Minimum wait time: 137
+Average queue length: 41.68
+Max queue length: 73
+Teller utilization: 51.60%
+Total customers served: 347
+Total execution time: 0.00 seconds
+Total customers generated: 348
+Total customers served: 348
+Customers left in queue: 0
+348,347,1,103.44,824,137,41.68,73,51.60%,347
+Average wait time for served customers: 103.44
+Maximum wait time: 824
+Minimum wait time: 137
+Average queue length: 41.68
+Max queue length: 73
+Teller utilization: 51.60%
+Total customers served: 347
+Total execution time: 0.00 seconds
+Total customers generated: 348
+Total customers served: 348
+Customers left in queue: 0
+348,347,1,103.44,824,137,41.68,73,51.60%,347
+Average wait time for served customers: 103.44
+Maximum wait time: 824
+Minimum wait time: 137
+Average queue length: 41.68
+Max queue length: 73
+Teller utilization: 51.60%
+Total customers served: 347
+Total execution time: 0.00 seconds
+Total customers generated: 348
+Total customers served: 348
+Customers left in queue: 0
+348,347,1,103.44,824,137,41.68,73,51.60%,347
+Average wait time for served customers: 103.44
+Maximum wait time: 824
+Minimum wait time: 137
+Average queue length: 41.68
+Max queue length: 73
+Teller utilization: 51.60%
+Total customers served: 347
+Total execution time: 0.00 seconds
+Total customers generated: 348
+Total customers served: 348
+Customers left in queue: 0
+348,347,1,103.44,824,137,41.68,73,51.60%,347
+Average wait time for served customers: 103.44
+Maximum wait time: 824
+Minimum wait time: 137
+Average queue length: 41.68
+Max queue length: 73
+Teller utilization: 51.60%
+Total customers served: 347
+Total execution time: 0.00 seconds
+Total customers generated: 348
+Total customers served: 348
+Customers left in queue: 0
+348,347,1,103.44,824,137,41.68,73,51.60%,347
+Average wait time for served customers: 103.44
+Maximum wait time: 824
+Minimum wait time: 137
+Average queue length: 41.68
+Max queue length: 73
+Teller utilization: 51.60%
+Total customers served: 347
+Total execution time: 0.00 seconds
+Total customers generated: 348
+Total customers served: 348
+Customers left in queue: 0
+348,347,1,103.44,824,137,41.68,73,51.60%,347
+Average wait time for served customers: 103.44
+Maximum wait time: 824
+Minimum wait time: 137
+Average queue length: 41.68
+Max queue length: 73
+Teller utilization: 51.60%
+Total customers served: 347
+Total execution time: 0.00 seconds
+Total customers generated: 348
+Total customers served: 348
+Customers left in queue: 0
+348,347,1,103.44,824,137,41.68,73,51.60%,347
+Average wait time for served customers: 103.44
+Maximum wait time: 824
+Minimum wait time: 137
+Average queue length: 41.68
+Max queue length: 73
+Teller utilization: 51.60%
+Total customers served: 347
+Total execution time: 0.00 seconds
+Total customers generated: 348
+Total customers served: 348
+Customers left in queue: 0
+348,347,1,103.44,824,137,41.68,73,51.60%,347
+Average wait time for served customers: 103.44
+Maximum wait time: 824
+Minimum wait time: 137
+Average queue length: 41.68
+Max queue length: 73
+Teller utilization: 51.60%
+Total customers served: 347
+Total execution time: 0.00 seconds
+Total customers generated: 348
+Total customers served: 348
+Customers left in queue: 0
+348,347,1,103.44,824,137,41.68,73,51.60%,347
+Average wait time for served customers: 103.44
+Maximum wait time: 824
+Minimum wait time: 137
+Average queue length: 41.68
+Max queue length: 73
+Teller utilization: 51.60%
+Total customers served: 347
+Total execution time: 0.00 seconds
+Total customers generated: 348
+Total customers served: 348
+Customers left in queue: 0
+348,347,1,103.44,824,137,41.68,73,51.60%,347
+Average wait time for served customers: 103.44
+Maximum wait time: 824
+Minimum wait time: 137
+Average queue length: 41.68
+Max queue length: 73
+Teller utilization: 51.60%
+Total customers served: 347
+Total execution time: 0.00 seconds
+Total customers generated: 348
+Total customers served: 348
+Customers left in queue: 0
+348,347,1,103.44,824,137,41.68,73,51.60%,347
+Average wait time for served customers: 103.44
+Maximum wait time: 824
+Minimum wait time: 137
+Average queue length: 41.68
+Max queue length: 73
+Teller utilization: 51.60%
+Total customers served: 347
+Total execution time: 0.00 seconds
+Total customers generated: 348
+Total customers served: 348
+Customers left in queue: 0
+348,347,1,103.44,824,137,41.68,73,51.60%,347
+Average wait time for served customers: 103.44
+Maximum wait time: 824
+Minimum wait time: 137
+Average queue length: 41.68
+Max queue length: 73
+Teller utilization: 51.60%
+Total customers served: 347
+Total execution time: 0.00 seconds
+Total customers generated: 348
+Total customers served: 348
+Customers left in queue: 0
+348,347,1,103.44,824,137,41.68,73,51.60%,347
+Average wait time for served customers: 103.44
+Maximum wait time: 824
+Minimum wait time: 137
+Average queue length: 41.68
+Max queue length: 73
+Teller utilization: 51.60%
+Total customers served: 347
+Total execution time: 0.00 seconds
+Total customers generated: 348
+Total customers served: 348
+Customers left in queue: 0
+348,347,1,103.44,824,137,41.68,73,51.60%,347
+Average wait time for served customers: 103.44
+Maximum wait time: 824
+Minimum wait time: 137
+Average queue length: 41.68
+Max queue length: 73
+Teller utilization: 51.60%
+Total customers served: 347
+Total execution time: 0.00 seconds
+Total customers generated: 348
+Total customers served: 348
+Customers left in queue: 0
+348,347,1,103.44,824,137,41.68,73,51.60%,347
+Average wait time for served customers: 103.44
+Maximum wait time: 824
+Minimum wait time: 137
+Average queue length: 41.68
+Max queue length: 73
+Teller utilization: 51.60%
+Total customers served: 347
+Total execution time: 0.00 seconds
+Total customers generated: 348
+Total customers served: 348
+Customers left in queue: 0
+348,347,1,103.44,824,137,41.68,73,51.60%,347
+Average wait time for served customers: 103.44
+Maximum wait time: 824
+Minimum wait time: 137
+Average queue length: 41.68
+Max queue length: 73
+Teller utilization: 51.60%
+Total customers served: 347
+Total execution time: 0.00 seconds
+Total customers generated: 348
+Total customers served: 348
+Customers left in queue: 0
+348,347,1,103.44,824,137,41.68,73,51.60%,347
+Average wait time for served customers: 103.44
+Maximum wait time: 824
+Minimum wait time: 137
+Average queue length: 41.68
+Max queue length: 73
+Teller utilization: 51.60%
+Total customers served: 347
+Total execution time: 0.00 seconds
+Total customers generated: 348
+Total customers served: 348
+Customers left in queue: 0
+348,347,1,103.44,824,137,41.68,73,51.60%,347
+Average wait time for served customers: 103.44
+Maximum wait time: 824
+Minimum wait time: 137
+Average queue length: 41.68
+Max queue length: 73
+Teller utilization: 51.60%
+Total customers served: 347
+Total execution time: 0.00 seconds
+Total customers generated: 348
+Total customers served: 348
+Customers left in queue: 0
+348,347,1,103.44,824,137,41.68,73,51.60%,347
+Average wait time for served customers: 103.44
+Maximum wait time: 824
+Minimum wait time: 137
+Average queue length: 41.68
+Max queue length: 73
+Teller utilization: 51.60%
+Total customers served: 347
+Total execution time: 0.00 seconds
+Total customers generated: 348
+Total customers served: 348
+Customers left in queue: 0
+348,347,1,103.44,824,137,41.68,73,51.60%,347
+Average wait time for served customers: 103.44
+Maximum wait time: 824
+Minimum wait time: 137
+Average queue length: 41.68
+Max queue length: 73
+Teller utilization: 51.60%
+Total customers served: 347
+Total execution time: 0.00 seconds
+Total customers generated: 348
+Total customers served: 348
+Customers left in queue: 0
+348,347,1,103.44,824,137,41.68,73,51.60%,347
+Average wait time for served customers: 103.44
+Maximum wait time: 824
+Minimum wait time: 137
+Average queue length: 41.68
+Max queue length: 73
+Teller utilization: 51.60%
+Total customers served: 347
+Total execution time: 0.00 seconds
+Total customers generated: 348
+Total customers served: 348
+Customers left in queue: 0
+348,347,1,103.44,824,137,41.68,73,51.60%,347
+Average wait time for served customers: 103.44
+Maximum wait time: 824
+Minimum wait time: 137
+Average queue length: 41.68
+Max queue length: 73
+Teller utilization: 51.60%
+Total customers served: 347
+Total execution time: 0.00 seconds
+Total customers generated: 348
+Total customers served: 348
+Customers left in queue: 0
+348,347,1,103.44,824,137,41.68,73,51.60%,347
+Average wait time for served customers: 103.44
+Maximum wait time: 824
+Minimum wait time: 137
+Average queue length: 41.68
+Max queue length: 73
+Teller utilization: 51.60%
+Total customers served: 347
+Total execution time: 0.00 seconds
+Total customers generated: 348
+Total customers served: 348
+Customers left in queue: 0
+348,347,1,103.44,824,137,41.68,73,51.60%,347
+Average wait time for served customers: 103.44
+Maximum wait time: 824
+Minimum wait time: 137
+Average queue length: 41.68
+Max queue length: 73
+Teller utilization: 51.60%
+Total customers served: 347
+Total execution time: 0.00 seconds
+Total customers generated: 348
+Total customers served: 348
+Customers left in queue: 0
+348,347,1,103.44,824,137,41.68,73,51.60%,347
+Average wait time for served customers: 103.44
+Maximum wait time: 824
+Minimum wait time: 137
+Average queue length: 41.68
+Max queue length: 73
+Teller utilization: 51.60%
+Total customers served: 347
+Total execution time: 0.00 seconds
+Total customers generated: 383
+Total customers served: 383
+Customers left in queue: 0
+383,382,1,168.43,930,192,71.70,110,52.60%,382
+Average wait time for served customers: 168.43
+Maximum wait time: 930
+Minimum wait time: 192
+Average queue length: 71.70
+Max queue length: 110
+Teller utilization: 52.60%
+Total customers served: 382
+Total execution time: 0.00 seconds
+Total customers generated: 383
+Total customers served: 383
+Customers left in queue: 0
+383,382,1,168.43,930,192,71.70,110,52.60%,382
+Average wait time for served customers: 168.43
+Maximum wait time: 930
+Minimum wait time: 192
+Average queue length: 71.70
+Max queue length: 110
+Teller utilization: 52.60%
+Total customers served: 382
+Total execution time: 0.00 seconds
+Total customers generated: 383
+Total customers served: 383
+Customers left in queue: 0
+383,382,1,168.43,930,192,71.70,110,52.60%,382
+Average wait time for served customers: 168.43
+Maximum wait time: 930
+Minimum wait time: 192
+Average queue length: 71.70
+Max queue length: 110
+Teller utilization: 52.60%
+Total customers served: 382
+Total execution time: 0.00 seconds
+Total customers generated: 383
+Total customers served: 383
+Customers left in queue: 0
+383,382,1,168.43,930,192,71.70,110,52.60%,382
+Average wait time for served customers: 168.43
+Maximum wait time: 930
+Minimum wait time: 192
+Average queue length: 71.70
+Max queue length: 110
+Teller utilization: 52.60%
+Total customers served: 382
+Total execution time: 0.00 seconds
+Total customers generated: 383
+Total customers served: 383
+Customers left in queue: 0
+383,382,1,168.43,930,192,71.70,110,52.60%,382
+Average wait time for served customers: 168.43
+Maximum wait time: 930
+Minimum wait time: 192
+Average queue length: 71.70
+Max queue length: 110
+Teller utilization: 52.60%
+Total customers served: 382
+Total execution time: 0.00 seconds
+Total customers generated: 383
+Total customers served: 383
+Customers left in queue: 0
+383,382,1,168.43,930,192,71.70,110,52.60%,382
+Average wait time for served customers: 168.43
+Maximum wait time: 930
+Minimum wait time: 192
+Average queue length: 71.70
+Max queue length: 110
+Teller utilization: 52.60%
+Total customers served: 382
+Total execution time: 0.00 seconds
+Total customers generated: 383
+Total customers served: 383
+Customers left in queue: 0
+383,382,1,168.43,930,192,71.70,110,52.60%,382
+Average wait time for served customers: 168.43
+Maximum wait time: 930
+Minimum wait time: 192
+Average queue length: 71.70
+Max queue length: 110
+Teller utilization: 52.60%
+Total customers served: 382
+Total execution time: 0.00 seconds
+Total customers generated: 383
+Total customers served: 383
+Customers left in queue: 0
+383,382,1,168.43,930,192,71.70,110,52.60%,382
+Average wait time for served customers: 168.43
+Maximum wait time: 930
+Minimum wait time: 192
+Average queue length: 71.70
+Max queue length: 110
+Teller utilization: 52.60%
+Total customers served: 382
+Total execution time: 0.00 seconds
+Total customers generated: 383
+Total customers served: 383
+Customers left in queue: 0
+383,382,1,168.43,930,192,71.70,110,52.60%,382
+Average wait time for served customers: 168.43
+Maximum wait time: 930
+Minimum wait time: 192
+Average queue length: 71.70
+Max queue length: 110
+Teller utilization: 52.60%
+Total customers served: 382
+Total execution time: 0.00 seconds
+Total customers generated: 383
+Total customers served: 383
+Customers left in queue: 0
+383,382,1,168.43,930,192,71.70,110,52.60%,382
+Average wait time for served customers: 168.43
+Maximum wait time: 930
+Minimum wait time: 192
+Average queue length: 71.70
+Max queue length: 110
+Teller utilization: 52.60%
+Total customers served: 382
+Total execution time: 0.00 seconds
+Total customers generated: 383
+Total customers served: 383
+Customers left in queue: 0
+383,382,1,168.43,930,192,71.70,110,52.60%,382
+Average wait time for served customers: 168.43
+Maximum wait time: 930
+Minimum wait time: 192
+Average queue length: 71.70
+Max queue length: 110
+Teller utilization: 52.60%
+Total customers served: 382
+Total execution time: 0.00 seconds
+Total customers generated: 383
+Total customers served: 383
+Customers left in queue: 0
+383,382,1,168.43,930,192,71.70,110,52.60%,382
+Average wait time for served customers: 168.43
+Maximum wait time: 930
+Minimum wait time: 192
+Average queue length: 71.70
+Max queue length: 110
+Teller utilization: 52.60%
+Total customers served: 382
+Total execution time: 0.00 seconds
+Total customers generated: 383
+Total customers served: 383
+Customers left in queue: 0
+383,382,1,168.43,930,192,71.70,110,52.60%,382
+Average wait time for served customers: 168.43
+Maximum wait time: 930
+Minimum wait time: 192
+Average queue length: 71.70
+Max queue length: 110
+Teller utilization: 52.60%
+Total customers served: 382
+Total execution time: 0.00 seconds
+Total customers generated: 383
+Total customers served: 383
+Customers left in queue: 0
+383,382,1,168.43,930,192,71.70,110,52.60%,382
+Average wait time for served customers: 168.43
+Maximum wait time: 930
+Minimum wait time: 192
+Average queue length: 71.70
+Max queue length: 110
+Teller utilization: 52.60%
+Total customers served: 382
+Total execution time: 0.00 seconds
+Total customers generated: 383
+Total customers served: 383
+Customers left in queue: 0
+383,382,1,168.43,930,192,71.70,110,52.60%,382
+Average wait time for served customers: 168.43
+Maximum wait time: 930
+Minimum wait time: 192
+Average queue length: 71.70
+Max queue length: 110
+Teller utilization: 52.60%
+Total customers served: 382
+Total execution time: 0.00 seconds
+Total customers generated: 383
+Total customers served: 383
+Customers left in queue: 0
+383,382,1,168.43,930,192,71.70,110,52.60%,382
+Average wait time for served customers: 168.43
+Maximum wait time: 930
+Minimum wait time: 192
+Average queue length: 71.70
+Max queue length: 110
+Teller utilization: 52.60%
+Total customers served: 382
+Total execution time: 0.00 seconds
+Total customers generated: 383
+Total customers served: 383
+Customers left in queue: 0
+383,382,1,168.43,930,192,71.70,110,52.60%,382
+Average wait time for served customers: 168.43
+Maximum wait time: 930
+Minimum wait time: 192
+Average queue length: 71.70
+Max queue length: 110
+Teller utilization: 52.60%
+Total customers served: 382
+Total execution time: 0.00 seconds
+Total customers generated: 383
+Total customers served: 383
+Customers left in queue: 0
+383,382,1,168.43,930,192,71.70,110,52.60%,382
+Average wait time for served customers: 168.43
+Maximum wait time: 930
+Minimum wait time: 192
+Average queue length: 71.70
+Max queue length: 110
+Teller utilization: 52.60%
+Total customers served: 382
+Total execution time: 0.00 seconds
+Total customers generated: 383
+Total customers served: 383
+Customers left in queue: 0
+383,382,1,168.43,930,192,71.70,110,52.60%,382
+Average wait time for served customers: 168.43
+Maximum wait time: 930
+Minimum wait time: 192
+Average queue length: 71.70
+Max queue length: 110
+Teller utilization: 52.60%
+Total customers served: 382
+Total execution time: 0.00 seconds
+Total customers generated: 383
+Total customers served: 383
+Customers left in queue: 0
+383,382,1,168.43,930,192,71.70,110,52.60%,382
+Average wait time for served customers: 168.43
+Maximum wait time: 930
+Minimum wait time: 192
+Average queue length: 71.70
+Max queue length: 110
+Teller utilization: 52.60%
+Total customers served: 382
+Total execution time: 0.00 seconds
+Total customers generated: 383
+Total customers served: 383
+Customers left in queue: 0
+383,382,1,168.43,930,192,71.70,110,52.60%,382
+Average wait time for served customers: 168.43
+Maximum wait time: 930
+Minimum wait time: 192
+Average queue length: 71.70
+Max queue length: 110
+Teller utilization: 52.60%
+Total customers served: 382
+Total execution time: 0.00 seconds
+Total customers generated: 383
+Total customers served: 383
+Customers left in queue: 0
+383,382,1,168.43,930,192,71.70,110,52.60%,382
+Average wait time for served customers: 168.43
+Maximum wait time: 930
+Minimum wait time: 192
+Average queue length: 71.70
+Max queue length: 110
+Teller utilization: 52.60%
+Total customers served: 382
+Total execution time: 0.00 seconds
+Total customers generated: 383
+Total customers served: 383
+Customers left in queue: 0
+383,382,1,168.43,930,192,71.70,110,52.60%,382
+Average wait time for served customers: 168.43
+Maximum wait time: 930
+Minimum wait time: 192
+Average queue length: 71.70
+Max queue length: 110
+Teller utilization: 52.60%
+Total customers served: 382
+Total execution time: 0.00 seconds
+Total customers generated: 383
+Total customers served: 383
+Customers left in queue: 0
+383,382,1,168.43,930,192,71.70,110,52.60%,382
+Average wait time for served customers: 168.43
+Maximum wait time: 930
+Minimum wait time: 192
+Average queue length: 71.70
+Max queue length: 110
+Teller utilization: 52.60%
+Total customers served: 382
+Total execution time: 0.00 seconds
+Total customers generated: 383
+Total customers served: 383
+Customers left in queue: 0
+383,382,1,168.43,930,192,71.70,110,52.60%,382
+Average wait time for served customers: 168.43
+Maximum wait time: 930
+Minimum wait time: 192
+Average queue length: 71.70
+Max queue length: 110
+Teller utilization: 52.60%
+Total customers served: 382
+Total execution time: 0.00 seconds
+Total customers generated: 383
+Total customers served: 383
+Customers left in queue: 0
+383,382,1,168.43,930,192,71.70,110,52.60%,382
+Average wait time for served customers: 168.43
+Maximum wait time: 930
+Minimum wait time: 192
+Average queue length: 71.70
+Max queue length: 110
+Teller utilization: 52.60%
+Total customers served: 382
+Total execution time: 0.00 seconds
+Total customers generated: 383
+Total customers served: 383
+Customers left in queue: 0
+383,382,1,168.43,930,192,71.70,110,52.60%,382
+Average wait time for served customers: 168.43
+Maximum wait time: 930
+Minimum wait time: 192
+Average queue length: 71.70
+Max queue length: 110
+Teller utilization: 52.60%
+Total customers served: 382
+Total execution time: 0.00 seconds
+Total customers generated: 383
+Total customers served: 383
+Customers left in queue: 0
+383,382,1,168.43,930,192,71.70,110,52.60%,382
+Average wait time for served customers: 168.43
+Maximum wait time: 930
+Minimum wait time: 192
+Average queue length: 71.70
+Max queue length: 110
+Teller utilization: 52.60%
+Total customers served: 382
+Total execution time: 0.00 seconds
+Total customers generated: 383
+Total customers served: 383
+Customers left in queue: 0
+383,382,1,168.43,930,192,71.70,110,52.60%,382
+Average wait time for served customers: 168.43
+Maximum wait time: 930
+Minimum wait time: 192
+Average queue length: 71.70
+Max queue length: 110
+Teller utilization: 52.60%
+Total customers served: 382
+Total execution time: 0.00 seconds
+Total customers generated: 383
+Total customers served: 383
+Customers left in queue: 0
+383,382,1,168.43,930,192,71.70,110,52.60%,382
+Average wait time for served customers: 168.43
+Maximum wait time: 930
+Minimum wait time: 192
+Average queue length: 71.70
+Max queue length: 110
+Teller utilization: 52.60%
+Total customers served: 382
+Total execution time: 0.00 seconds
+Total customers generated: 383
+Total customers served: 383
+Customers left in queue: 0
+383,382,1,168.43,930,192,71.70,110,52.60%,382
+Average wait time for served customers: 168.43
+Maximum wait time: 930
+Minimum wait time: 192
+Average queue length: 71.70
+Max queue length: 110
+Teller utilization: 52.60%
+Total customers served: 382
+Total execution time: 0.00 seconds
+Total customers generated: 383
+Total customers served: 383
+Customers left in queue: 0
+383,382,1,168.43,930,192,71.70,110,52.60%,382
+Average wait time for served customers: 168.43
+Maximum wait time: 930
+Minimum wait time: 192
+Average queue length: 71.70
+Max queue length: 110
+Teller utilization: 52.60%
+Total customers served: 382
+Total execution time: 0.00 seconds
+Total customers generated: 383
+Total customers served: 383
+Customers left in queue: 0
+383,382,1,168.43,930,192,71.70,110,52.60%,382
+Average wait time for served customers: 168.43
+Maximum wait time: 930
+Minimum wait time: 192
+Average queue length: 71.70
+Max queue length: 110
+Teller utilization: 52.60%
+Total customers served: 382
+Total execution time: 0.00 seconds
+Total customers generated: 383
+Total customers served: 383
+Customers left in queue: 0
+383,382,1,168.43,930,192,71.70,110,52.60%,382
+Average wait time for served customers: 168.43
+Maximum wait time: 930
+Minimum wait time: 192
+Average queue length: 71.70
+Max queue length: 110
+Teller utilization: 52.60%
+Total customers served: 382
+Total execution time: 0.00 seconds
+Total customers generated: 383
+Total customers served: 383
+Customers left in queue: 0
+383,382,1,168.43,930,192,71.70,110,52.60%,382
+Average wait time for served customers: 168.43
+Maximum wait time: 930
+Minimum wait time: 192
+Average queue length: 71.70
+Max queue length: 110
+Teller utilization: 52.60%
+Total customers served: 382
+Total execution time: 0.00 seconds
+Total customers generated: 383
+Total customers served: 383
+Customers left in queue: 0
+383,382,1,168.43,930,192,71.70,110,52.60%,382
+Average wait time for served customers: 168.43
+Maximum wait time: 930
+Minimum wait time: 192
+Average queue length: 71.70
+Max queue length: 110
+Teller utilization: 52.60%
+Total customers served: 382
+Total execution time: 0.00 seconds
+Total customers generated: 383
+Total customers served: 383
+Customers left in queue: 0
+383,382,1,168.43,930,192,71.70,110,52.60%,382
+Average wait time for served customers: 168.43
+Maximum wait time: 930
+Minimum wait time: 192
+Average queue length: 71.70
+Max queue length: 110
+Teller utilization: 52.60%
+Total customers served: 382
+Total execution time: 0.00 seconds
+Total customers generated: 407
+Total customers served: 407
+Customers left in queue: 0
+407,406,1,175.22,959,238,75.33,114,53.75%,406
+Average wait time for served customers: 175.22
+Maximum wait time: 959
+Minimum wait time: 238
+Average queue length: 75.33
+Max queue length: 114
+Teller utilization: 53.75%
+Total customers served: 406
+Total execution time: 0.00 seconds
+Total customers generated: 407
+Total customers served: 407
+Customers left in queue: 0
+407,406,1,175.22,959,238,75.33,114,53.75%,406
+Average wait time for served customers: 175.22
+Maximum wait time: 959
+Minimum wait time: 238
+Average queue length: 75.33
+Max queue length: 114
+Teller utilization: 53.75%
+Total customers served: 406
+Total execution time: 0.00 seconds
+Total customers generated: 407
+Total customers served: 407
+Customers left in queue: 0
+407,406,1,175.22,959,238,75.33,114,53.75%,406
+Average wait time for served customers: 175.22
+Maximum wait time: 959
+Minimum wait time: 238
+Average queue length: 75.33
+Max queue length: 114
+Teller utilization: 53.75%
+Total customers served: 406
+Total execution time: 0.00 seconds
+Total customers generated: 407
+Total customers served: 407
+Customers left in queue: 0
+407,406,1,175.22,959,238,75.33,114,53.75%,406
+Average wait time for served customers: 175.22
+Maximum wait time: 959
+Minimum wait time: 238
+Average queue length: 75.33
+Max queue length: 114
+Teller utilization: 53.75%
+Total customers served: 406
+Total execution time: 0.00 seconds
+Total customers generated: 407
+Total customers served: 407
+Customers left in queue: 0
+407,406,1,175.22,959,238,75.33,114,53.75%,406
+Average wait time for served customers: 175.22
+Maximum wait time: 959
+Minimum wait time: 238
+Average queue length: 75.33
+Max queue length: 114
+Teller utilization: 53.75%
+Total customers served: 406
+Total execution time: 0.00 seconds
+Total customers generated: 407
+Total customers served: 407
+Customers left in queue: 0
+407,406,1,175.22,959,238,75.33,114,53.75%,406
+Average wait time for served customers: 175.22
+Maximum wait time: 959
+Minimum wait time: 238
+Average queue length: 75.33
+Max queue length: 114
+Teller utilization: 53.75%
+Total customers served: 406
+Total execution time: 0.00 seconds
+Total customers generated: 407
+Total customers served: 407
+Customers left in queue: 0
+407,406,1,175.22,959,238,75.33,114,53.75%,406
+Average wait time for served customers: 175.22
+Maximum wait time: 959
+Minimum wait time: 238
+Average queue length: 75.33
+Max queue length: 114
+Teller utilization: 53.75%
+Total customers served: 406
+Total execution time: 0.00 seconds
+Total customers generated: 407
+Total customers served: 407
+Customers left in queue: 0
+407,406,1,175.22,959,238,75.33,114,53.75%,406
+Average wait time for served customers: 175.22
+Maximum wait time: 959
+Minimum wait time: 238
+Average queue length: 75.33
+Max queue length: 114
+Teller utilization: 53.75%
+Total customers served: 406
+Total execution time: 0.00 seconds
+Total customers generated: 407
+Total customers served: 407
+Customers left in queue: 0
+407,406,1,175.22,959,238,75.33,114,53.75%,406
+Average wait time for served customers: 175.22
+Maximum wait time: 959
+Minimum wait time: 238
+Average queue length: 75.33
+Max queue length: 114
+Teller utilization: 53.75%
+Total customers served: 406
+Total execution time: 0.00 seconds
+Total customers generated: 407
+Total customers served: 407
+Customers left in queue: 0
+407,406,1,175.22,959,238,75.33,114,53.75%,406
+Average wait time for served customers: 175.22
+Maximum wait time: 959
+Minimum wait time: 238
+Average queue length: 75.33
+Max queue length: 114
+Teller utilization: 53.75%
+Total customers served: 406
+Total execution time: 0.00 seconds
+Total customers generated: 407
+Total customers served: 407
+Customers left in queue: 0
+407,406,1,175.22,959,238,75.33,114,53.75%,406
+Average wait time for served customers: 175.22
+Maximum wait time: 959
+Minimum wait time: 238
+Average queue length: 75.33
+Max queue length: 114
+Teller utilization: 53.75%
+Total customers served: 406
+Total execution time: 0.00 seconds
+Total customers generated: 407
+Total customers served: 407
+Customers left in queue: 0
+407,406,1,175.22,959,238,75.33,114,53.75%,406
+Average wait time for served customers: 175.22
+Maximum wait time: 959
+Minimum wait time: 238
+Average queue length: 75.33
+Max queue length: 114
+Teller utilization: 53.75%
+Total customers served: 406
+Total execution time: 0.00 seconds
+Total customers generated: 407
+Total customers served: 407
+Customers left in queue: 0
+407,406,1,175.22,959,238,75.33,114,53.75%,406
+Average wait time for served customers: 175.22
+Maximum wait time: 959
+Minimum wait time: 238
+Average queue length: 75.33
+Max queue length: 114
+Teller utilization: 53.75%
+Total customers served: 406
+Total execution time: 0.00 seconds
+Total customers generated: 407
+Total customers served: 407
+Customers left in queue: 0
+407,406,1,175.22,959,238,75.33,114,53.75%,406
+Average wait time for served customers: 175.22
+Maximum wait time: 959
+Minimum wait time: 238
+Average queue length: 75.33
+Max queue length: 114
+Teller utilization: 53.75%
+Total customers served: 406
+Total execution time: 0.00 seconds
+Total customers generated: 407
+Total customers served: 407
+Customers left in queue: 0
+407,406,1,175.22,959,238,75.33,114,53.75%,406
+Average wait time for served customers: 175.22
+Maximum wait time: 959
+Minimum wait time: 238
+Average queue length: 75.33
+Max queue length: 114
+Teller utilization: 53.75%
+Total customers served: 406
+Total execution time: 0.00 seconds
+Total customers generated: 407
+Total customers served: 407
+Customers left in queue: 0
+407,406,1,175.22,959,238,75.33,114,53.75%,406
+Average wait time for served customers: 175.22
+Maximum wait time: 959
+Minimum wait time: 238
+Average queue length: 75.33
+Max queue length: 114
+Teller utilization: 53.75%
+Total customers served: 406
+Total execution time: 0.00 seconds
+Total customers generated: 407
+Total customers served: 407
+Customers left in queue: 0
+407,406,1,175.22,959,238,75.33,114,53.75%,406
+Average wait time for served customers: 175.22
+Maximum wait time: 959
+Minimum wait time: 238
+Average queue length: 75.33
+Max queue length: 114
+Teller utilization: 53.75%
+Total customers served: 406
+Total execution time: 0.00 seconds
+Total customers generated: 407
+Total customers served: 407
+Customers left in queue: 0
+407,406,1,175.22,959,238,75.33,114,53.75%,406
+Average wait time for served customers: 175.22
+Maximum wait time: 959
+Minimum wait time: 238
+Average queue length: 75.33
+Max queue length: 114
+Teller utilization: 53.75%
+Total customers served: 406
+Total execution time: 0.00 seconds
+Total customers generated: 407
+Total customers served: 407
+Customers left in queue: 0
+407,406,1,175.22,959,238,75.33,114,53.75%,406
+Average wait time for served customers: 175.22
+Maximum wait time: 959
+Minimum wait time: 238
+Average queue length: 75.33
+Max queue length: 114
+Teller utilization: 53.75%
+Total customers served: 406
+Total execution time: 0.00 seconds
+Total customers generated: 407
+Total customers served: 407
+Customers left in queue: 0
+407,406,1,175.22,959,238,75.33,114,53.75%,406
+Average wait time for served customers: 175.22
+Maximum wait time: 959
+Minimum wait time: 238
+Average queue length: 75.33
+Max queue length: 114
+Teller utilization: 53.75%
+Total customers served: 406
+Total execution time: 0.00 seconds
+Total customers generated: 407
+Total customers served: 407
+Customers left in queue: 0
+407,406,1,175.22,959,238,75.33,114,53.75%,406
+Average wait time for served customers: 175.22
+Maximum wait time: 959
+Minimum wait time: 238
+Average queue length: 75.33
+Max queue length: 114
+Teller utilization: 53.75%
+Total customers served: 406
+Total execution time: 0.00 seconds
+Total customers generated: 407
+Total customers served: 407
+Customers left in queue: 0
+407,406,1,175.22,959,238,75.33,114,53.75%,406
+Average wait time for served customers: 175.22
+Maximum wait time: 959
+Minimum wait time: 238
+Average queue length: 75.33
+Max queue length: 114
+Teller utilization: 53.75%
+Total customers served: 406
+Total execution time: 0.00 seconds
+Total customers generated: 407
+Total customers served: 407
+Customers left in queue: 0
+407,406,1,175.22,959,238,75.33,114,53.75%,406
+Average wait time for served customers: 175.22
+Maximum wait time: 959
+Minimum wait time: 238
+Average queue length: 75.33
+Max queue length: 114
+Teller utilization: 53.75%
+Total customers served: 406
+Total execution time: 0.00 seconds
+Total customers generated: 407
+Total customers served: 407
+Customers left in queue: 0
+407,406,1,175.22,959,238,75.33,114,53.75%,406
+Average wait time for served customers: 175.22
+Maximum wait time: 959
+Minimum wait time: 238
+Average queue length: 75.33
+Max queue length: 114
+Teller utilization: 53.75%
+Total customers served: 406
+Total execution time: 0.00 seconds
+Total customers generated: 407
+Total customers served: 407
+Customers left in queue: 0
+407,406,1,175.22,959,238,75.33,114,53.75%,406
+Average wait time for served customers: 175.22
+Maximum wait time: 959
+Minimum wait time: 238
+Average queue length: 75.33
+Max queue length: 114
+Teller utilization: 53.75%
+Total customers served: 406
+Total execution time: 0.00 seconds
+Total customers generated: 407
+Total customers served: 407
+Customers left in queue: 0
+407,406,1,175.22,959,238,75.33,114,53.75%,406
+Average wait time for served customers: 175.22
+Maximum wait time: 959
+Minimum wait time: 238
+Average queue length: 75.33
+Max queue length: 114
+Teller utilization: 53.75%
+Total customers served: 406
+Total execution time: 0.00 seconds
+Total customers generated: 407
+Total customers served: 407
+Customers left in queue: 0
+407,406,1,175.22,959,238,75.33,114,53.75%,406
+Average wait time for served customers: 175.22
+Maximum wait time: 959
+Minimum wait time: 238
+Average queue length: 75.33
+Max queue length: 114
+Teller utilization: 53.75%
+Total customers served: 406
+Total execution time: 0.00 seconds
+Total customers generated: 407
+Total customers served: 407
+Customers left in queue: 0
+407,406,1,175.22,959,238,75.33,114,53.75%,406
+Average wait time for served customers: 175.22
+Maximum wait time: 959
+Minimum wait time: 238
+Average queue length: 75.33
+Max queue length: 114
+Teller utilization: 53.75%
+Total customers served: 406
+Total execution time: 0.00 seconds
+Total customers generated: 407
+Total customers served: 407
+Customers left in queue: 0
+407,406,1,175.22,959,238,75.33,114,53.75%,406
+Average wait time for served customers: 175.22
+Maximum wait time: 959
+Minimum wait time: 238
+Average queue length: 75.33
+Max queue length: 114
+Teller utilization: 53.75%
+Total customers served: 406
+Total execution time: 0.00 seconds
+Total customers generated: 407
+Total customers served: 407
+Customers left in queue: 0
+407,406,1,175.22,959,238,75.33,114,53.75%,406
+Average wait time for served customers: 175.22
+Maximum wait time: 959
+Minimum wait time: 238
+Average queue length: 75.33
+Max queue length: 114
+Teller utilization: 53.75%
+Total customers served: 406
+Total execution time: 0.00 seconds
+Total customers generated: 407
+Total customers served: 407
+Customers left in queue: 0
+407,406,1,175.22,959,238,75.33,114,53.75%,406
+Average wait time for served customers: 175.22
+Maximum wait time: 959
+Minimum wait time: 238
+Average queue length: 75.33
+Max queue length: 114
+Teller utilization: 53.75%
+Total customers served: 406
+Total execution time: 0.00 seconds
+Total customers generated: 407
+Total customers served: 407
+Customers left in queue: 0
+407,406,1,175.22,959,238,75.33,114,53.75%,406
+Average wait time for served customers: 175.22
+Maximum wait time: 959
+Minimum wait time: 238
+Average queue length: 75.33
+Max queue length: 114
+Teller utilization: 53.75%
+Total customers served: 406
+Total execution time: 0.00 seconds
+Total customers generated: 407
+Total customers served: 407
+Customers left in queue: 0
+407,406,1,175.22,959,238,75.33,114,53.75%,406
+Average wait time for served customers: 175.22
+Maximum wait time: 959
+Minimum wait time: 238
+Average queue length: 75.33
+Max queue length: 114
+Teller utilization: 53.75%
+Total customers served: 406
+Total execution time: 0.00 seconds
+Total customers generated: 407
+Total customers served: 407
+Customers left in queue: 0
+407,406,1,175.22,959,238,75.33,114,53.75%,406
+Average wait time for served customers: 175.22
+Maximum wait time: 959
+Minimum wait time: 238
+Average queue length: 75.33
+Max queue length: 114
+Teller utilization: 53.75%
+Total customers served: 406
+Total execution time: 0.00 seconds
+Total customers generated: 407
+Total customers served: 407
+Customers left in queue: 0
+407,406,1,175.22,959,238,75.33,114,53.75%,406
+Average wait time for served customers: 175.22
+Maximum wait time: 959
+Minimum wait time: 238
+Average queue length: 75.33
+Max queue length: 114
+Teller utilization: 53.75%
+Total customers served: 406
+Total execution time: 0.00 seconds
+Total customers generated: 350
+Total customers served: 350
+Customers left in queue: 0
+350,348,2,124.53,957,154,50.31,87,51.56%,348
+Average wait time for served customers: 124.53
+Maximum wait time: 957
+Minimum wait time: 154
+Average queue length: 50.31
+Max queue length: 87
+Teller utilization: 51.56%
+Total customers served: 348
+Total execution time: 0.00 seconds
+Total customers generated: 350
+Total customers served: 350
+Customers left in queue: 0
+350,348,2,124.53,957,154,50.31,87,51.56%,348
+Average wait time for served customers: 124.53
+Maximum wait time: 957
+Minimum wait time: 154
+Average queue length: 50.31
+Max queue length: 87
+Teller utilization: 51.56%
+Total customers served: 348
+Total execution time: 0.00 seconds
+Total customers generated: 350
+Total customers served: 350
+Customers left in queue: 0
+350,348,2,124.53,957,154,50.31,87,51.56%,348
+Average wait time for served customers: 124.53
+Maximum wait time: 957
+Minimum wait time: 154
+Average queue length: 50.31
+Max queue length: 87
+Teller utilization: 51.56%
+Total customers served: 348
+Total execution time: 0.00 seconds
+Total customers generated: 350
+Total customers served: 350
+Customers left in queue: 0
+350,348,2,124.53,957,154,50.31,87,51.56%,348
+Average wait time for served customers: 124.53
+Maximum wait time: 957
+Minimum wait time: 154
+Average queue length: 50.31
+Max queue length: 87
+Teller utilization: 51.56%
+Total customers served: 348
+Total execution time: 0.00 seconds
+Total customers generated: 350
+Total customers served: 350
+Customers left in queue: 0
+350,348,2,124.53,957,154,50.31,87,51.56%,348
+Average wait time for served customers: 124.53
+Maximum wait time: 957
+Minimum wait time: 154
+Average queue length: 50.31
+Max queue length: 87
+Teller utilization: 51.56%
+Total customers served: 348
+Total execution time: 0.00 seconds
+Total customers generated: 350
+Total customers served: 350
+Customers left in queue: 0
+350,348,2,124.53,957,154,50.31,87,51.56%,348
+Average wait time for served customers: 124.53
+Maximum wait time: 957
+Minimum wait time: 154
+Average queue length: 50.31
+Max queue length: 87
+Teller utilization: 51.56%
+Total customers served: 348
+Total execution time: 0.00 seconds
+Total customers generated: 350
+Total customers served: 350
+Customers left in queue: 0
+350,348,2,124.53,957,154,50.31,87,51.56%,348
+Average wait time for served customers: 124.53
+Maximum wait time: 957
+Minimum wait time: 154
+Average queue length: 50.31
+Max queue length: 87
+Teller utilization: 51.56%
+Total customers served: 348
+Total execution time: 0.00 seconds
+Total customers generated: 350
+Total customers served: 350
+Customers left in queue: 0
+350,348,2,124.53,957,154,50.31,87,51.56%,348
+Average wait time for served customers: 124.53
+Maximum wait time: 957
+Minimum wait time: 154
+Average queue length: 50.31
+Max queue length: 87
+Teller utilization: 51.56%
+Total customers served: 348
+Total execution time: 0.00 seconds
+Total customers generated: 350
+Total customers served: 350
+Customers left in queue: 0
+350,348,2,124.53,957,154,50.31,87,51.56%,348
+Average wait time for served customers: 124.53
+Maximum wait time: 957
+Minimum wait time: 154
+Average queue length: 50.31
+Max queue length: 87
+Teller utilization: 51.56%
+Total customers served: 348
+Total execution time: 0.00 seconds
+Total customers generated: 350
+Total customers served: 350
+Customers left in queue: 0
+350,348,2,124.53,957,154,50.31,87,51.56%,348
+Average wait time for served customers: 124.53
+Maximum wait time: 957
+Minimum wait time: 154
+Average queue length: 50.31
+Max queue length: 87
+Teller utilization: 51.56%
+Total customers served: 348
+Total execution time: 0.00 seconds
+Total customers generated: 350
+Total customers served: 350
+Customers left in queue: 0
+350,348,2,124.53,957,154,50.31,87,51.56%,348
+Average wait time for served customers: 124.53
+Maximum wait time: 957
+Minimum wait time: 154
+Average queue length: 50.31
+Max queue length: 87
+Teller utilization: 51.56%
+Total customers served: 348
+Total execution time: 0.00 seconds
+Total customers generated: 350
+Total customers served: 350
+Customers left in queue: 0
+350,348,2,124.53,957,154,50.31,87,51.56%,348
+Average wait time for served customers: 124.53
+Maximum wait time: 957
+Minimum wait time: 154
+Average queue length: 50.31
+Max queue length: 87
+Teller utilization: 51.56%
+Total customers served: 348
+Total execution time: 0.00 seconds
+Total customers generated: 350
+Total customers served: 350
+Customers left in queue: 0
+350,348,2,124.53,957,154,50.31,87,51.56%,348
+Average wait time for served customers: 124.53
+Maximum wait time: 957
+Minimum wait time: 154
+Average queue length: 50.31
+Max queue length: 87
+Teller utilization: 51.56%
+Total customers served: 348
+Total execution time: 0.00 seconds
+Total customers generated: 350
+Total customers served: 350
+Customers left in queue: 0
+350,348,2,124.53,957,154,50.31,87,51.56%,348
+Average wait time for served customers: 124.53
+Maximum wait time: 957
+Minimum wait time: 154
+Average queue length: 50.31
+Max queue length: 87
+Teller utilization: 51.56%
+Total customers served: 348
+Total execution time: 0.00 seconds
+Total customers generated: 350
+Total customers served: 350
+Customers left in queue: 0
+350,348,2,124.53,957,154,50.31,87,51.56%,348
+Average wait time for served customers: 124.53
+Maximum wait time: 957
+Minimum wait time: 154
+Average queue length: 50.31
+Max queue length: 87
+Teller utilization: 51.56%
+Total customers served: 348
+Total execution time: 0.00 seconds
+Total customers generated: 350
+Total customers served: 350
+Customers left in queue: 0
+350,348,2,124.53,957,154,50.31,87,51.56%,348
+Average wait time for served customers: 124.53
+Maximum wait time: 957
+Minimum wait time: 154
+Average queue length: 50.31
+Max queue length: 87
+Teller utilization: 51.56%
+Total customers served: 348
+Total execution time: 0.00 seconds
+Total customers generated: 350
+Total customers served: 350
+Customers left in queue: 0
+350,348,2,124.53,957,154,50.31,87,51.56%,348
+Average wait time for served customers: 124.53
+Maximum wait time: 957
+Minimum wait time: 154
+Average queue length: 50.31
+Max queue length: 87
+Teller utilization: 51.56%
+Total customers served: 348
+Total execution time: 0.00 seconds
+Total customers generated: 350
+Total customers served: 350
+Customers left in queue: 0
+350,348,2,124.53,957,154,50.31,87,51.56%,348
+Average wait time for served customers: 124.53
+Maximum wait time: 957
+Minimum wait time: 154
+Average queue length: 50.31
+Max queue length: 87
+Teller utilization: 51.56%
+Total customers served: 348
+Total execution time: 0.00 seconds
+Total customers generated: 350
+Total customers served: 350
+Customers left in queue: 0
+350,348,2,124.53,957,154,50.31,87,51.56%,348
+Average wait time for served customers: 124.53
+Maximum wait time: 957
+Minimum wait time: 154
+Average queue length: 50.31
+Max queue length: 87
+Teller utilization: 51.56%
+Total customers served: 348
+Total execution time: 0.00 seconds
+Total customers generated: 350
+Total customers served: 350
+Customers left in queue: 0
+350,348,2,124.53,957,154,50.31,87,51.56%,348
+Average wait time for served customers: 124.53
+Maximum wait time: 957
+Minimum wait time: 154
+Average queue length: 50.31
+Max queue length: 87
+Teller utilization: 51.56%
+Total customers served: 348
+Total execution time: 0.00 seconds
+Total customers generated: 350
+Total customers served: 350
+Customers left in queue: 0
+350,348,2,124.53,957,154,50.31,87,51.56%,348
+Average wait time for served customers: 124.53
+Maximum wait time: 957
+Minimum wait time: 154
+Average queue length: 50.31
+Max queue length: 87
+Teller utilization: 51.56%
+Total customers served: 348
+Total execution time: 0.00 seconds
+Total customers generated: 350
+Total customers served: 350
+Customers left in queue: 0
+350,348,2,124.53,957,154,50.31,87,51.56%,348
+Average wait time for served customers: 124.53
+Maximum wait time: 957
+Minimum wait time: 154
+Average queue length: 50.31
+Max queue length: 87
+Teller utilization: 51.56%
+Total customers served: 348
+Total execution time: 0.00 seconds
+Total customers generated: 350
+Total customers served: 350
+Customers left in queue: 0
+350,348,2,124.53,957,154,50.31,87,51.56%,348
+Average wait time for served customers: 124.53
+Maximum wait time: 957
+Minimum wait time: 154
+Average queue length: 50.31
+Max queue length: 87
+Teller utilization: 51.56%
+Total customers served: 348
+Total execution time: 0.00 seconds
+Total customers generated: 350
+Total customers served: 350
+Customers left in queue: 0
+350,348,2,124.53,957,154,50.31,87,51.56%,348
+Average wait time for served customers: 124.53
+Maximum wait time: 957
+Minimum wait time: 154
+Average queue length: 50.31
+Max queue length: 87
+Teller utilization: 51.56%
+Total customers served: 348
+Total execution time: 0.00 seconds
+Total customers generated: 350
+Total customers served: 350
+Customers left in queue: 0
+350,348,2,124.53,957,154,50.31,87,51.56%,348
+Average wait time for served customers: 124.53
+Maximum wait time: 957
+Minimum wait time: 154
+Average queue length: 50.31
+Max queue length: 87
+Teller utilization: 51.56%
+Total customers served: 348
+Total execution time: 0.00 seconds
+Total customers generated: 350
+Total customers served: 350
+Customers left in queue: 0
+350,348,2,124.53,957,154,50.31,87,51.56%,348
+Average wait time for served customers: 124.53
+Maximum wait time: 957
+Minimum wait time: 154
+Average queue length: 50.31
+Max queue length: 87
+Teller utilization: 51.56%
+Total customers served: 348
+Total execution time: 0.00 seconds
+Total customers generated: 350
+Total customers served: 350
+Customers left in queue: 0
+350,348,2,124.53,957,154,50.31,87,51.56%,348
+Average wait time for served customers: 124.53
+Maximum wait time: 957
+Minimum wait time: 154
+Average queue length: 50.31
+Max queue length: 87
+Teller utilization: 51.56%
+Total customers served: 348
+Total execution time: 0.00 seconds
+Total customers generated: 350
+Total customers served: 350
+Customers left in queue: 0
+350,348,2,124.53,957,154,50.31,87,51.56%,348
+Average wait time for served customers: 124.53
+Maximum wait time: 957
+Minimum wait time: 154
+Average queue length: 50.31
+Max queue length: 87
+Teller utilization: 51.56%
+Total customers served: 348
+Total execution time: 0.00 seconds
+Total customers generated: 350
+Total customers served: 350
+Customers left in queue: 0
+350,348,2,124.53,957,154,50.31,87,51.56%,348
+Average wait time for served customers: 124.53
+Maximum wait time: 957
+Minimum wait time: 154
+Average queue length: 50.31
+Max queue length: 87
+Teller utilization: 51.56%
+Total customers served: 348
+Total execution time: 0.00 seconds
+Total customers generated: 350
+Total customers served: 350
+Customers left in queue: 0
+350,348,2,124.53,957,154,50.31,87,51.56%,348
+Average wait time for served customers: 124.53
+Maximum wait time: 957
+Minimum wait time: 154
+Average queue length: 50.31
+Max queue length: 87
+Teller utilization: 51.56%
+Total customers served: 348
+Total execution time: 0.00 seconds
+Total customers generated: 350
+Total customers served: 350
+Customers left in queue: 0
+350,348,2,124.53,957,154,50.31,87,51.56%,348
+Average wait time for served customers: 124.53
+Maximum wait time: 957
+Minimum wait time: 154
+Average queue length: 50.31
+Max queue length: 87
+Teller utilization: 51.56%
+Total customers served: 348
+Total execution time: 0.00 seconds
+Total customers generated: 350
+Total customers served: 350
+Customers left in queue: 0
+350,348,2,124.53,957,154,50.31,87,51.56%,348
+Average wait time for served customers: 124.53
+Maximum wait time: 957
+Minimum wait time: 154
+Average queue length: 50.31
+Max queue length: 87
+Teller utilization: 51.56%
+Total customers served: 348
+Total execution time: 0.00 seconds
+Total customers generated: 350
+Total customers served: 350
+Customers left in queue: 0
+350,348,2,124.53,957,154,50.31,87,51.56%,348
+Average wait time for served customers: 124.53
+Maximum wait time: 957
+Minimum wait time: 154
+Average queue length: 50.31
+Max queue length: 87
+Teller utilization: 51.56%
+Total customers served: 348
+Total execution time: 0.00 seconds
+Total customers generated: 350
+Total customers served: 350
+Customers left in queue: 0
+350,348,2,124.53,957,154,50.31,87,51.56%,348
+Average wait time for served customers: 124.53
+Maximum wait time: 957
+Minimum wait time: 154
+Average queue length: 50.31
+Max queue length: 87
+Teller utilization: 51.56%
+Total customers served: 348
+Total execution time: 0.00 seconds
+Total customers generated: 350
+Total customers served: 350
+Customers left in queue: 0
+350,348,2,124.53,957,154,50.31,87,51.56%,348
+Average wait time for served customers: 124.53
+Maximum wait time: 957
+Minimum wait time: 154
+Average queue length: 50.31
+Max queue length: 87
+Teller utilization: 51.56%
+Total customers served: 348
+Total execution time: 0.00 seconds
+Total customers generated: 350
+Total customers served: 350
+Customers left in queue: 0
+350,348,2,124.53,957,154,50.31,87,51.56%,348
+Average wait time for served customers: 124.53
+Maximum wait time: 957
+Minimum wait time: 154
+Average queue length: 50.31
+Max queue length: 87
+Teller utilization: 51.56%
+Total customers served: 348
+Total execution time: 0.00 seconds
+Total customers generated: 395
+Total customers served: 395
+Customers left in queue: 0
+395,394,1,161.87,939,215,68.05,107,56.46%,394
+Average wait time for served customers: 161.87
+Maximum wait time: 939
+Minimum wait time: 215
+Average queue length: 68.05
+Max queue length: 107
+Teller utilization: 56.46%
+Total customers served: 394
+Total execution time: 0.00 seconds
+Total customers generated: 395
+Total customers served: 395
+Customers left in queue: 0
+395,394,1,161.87,939,215,68.05,107,56.46%,394
+Average wait time for served customers: 161.87
+Maximum wait time: 939
+Minimum wait time: 215
+Average queue length: 68.05
+Max queue length: 107
+Teller utilization: 56.46%
+Total customers served: 394
+Total execution time: 0.00 seconds
+Total customers generated: 395
+Total customers served: 395
+Customers left in queue: 0
+395,394,1,161.87,939,215,68.05,107,56.46%,394
+Average wait time for served customers: 161.87
+Maximum wait time: 939
+Minimum wait time: 215
+Average queue length: 68.05
+Max queue length: 107
+Teller utilization: 56.46%
+Total customers served: 394
+Total execution time: 0.00 seconds
+Total customers generated: 395
+Total customers served: 395
+Customers left in queue: 0
+395,394,1,161.87,939,215,68.05,107,56.46%,394
+Average wait time for served customers: 161.87
+Maximum wait time: 939
+Minimum wait time: 215
+Average queue length: 68.05
+Max queue length: 107
+Teller utilization: 56.46%
+Total customers served: 394
+Total execution time: 0.00 seconds
+Total customers generated: 395
+Total customers served: 395
+Customers left in queue: 0
+395,394,1,161.87,939,215,68.05,107,56.46%,394
+Average wait time for served customers: 161.87
+Maximum wait time: 939
+Minimum wait time: 215
+Average queue length: 68.05
+Max queue length: 107
+Teller utilization: 56.46%
+Total customers served: 394
+Total execution time: 0.00 seconds
+Total customers generated: 395
+Total customers served: 395
+Customers left in queue: 0
+395,394,1,161.87,939,215,68.05,107,56.46%,394
+Average wait time for served customers: 161.87
+Maximum wait time: 939
+Minimum wait time: 215
+Average queue length: 68.05
+Max queue length: 107
+Teller utilization: 56.46%
+Total customers served: 394
+Total execution time: 0.00 seconds
+Total customers generated: 395
+Total customers served: 395
+Customers left in queue: 0
+395,394,1,161.87,939,215,68.05,107,56.46%,394
+Average wait time for served customers: 161.87
+Maximum wait time: 939
+Minimum wait time: 215
+Average queue length: 68.05
+Max queue length: 107
+Teller utilization: 56.46%
+Total customers served: 394
+Total execution time: 0.00 seconds
+Total customers generated: 395
+Total customers served: 395
+Customers left in queue: 0
+395,394,1,161.87,939,215,68.05,107,56.46%,394
+Average wait time for served customers: 161.87
+Maximum wait time: 939
+Minimum wait time: 215
+Average queue length: 68.05
+Max queue length: 107
+Teller utilization: 56.46%
+Total customers served: 394
+Total execution time: 0.00 seconds
+Total customers generated: 395
+Total customers served: 395
+Customers left in queue: 0
+395,394,1,161.87,939,215,68.05,107,56.46%,394
+Average wait time for served customers: 161.87
+Maximum wait time: 939
+Minimum wait time: 215
+Average queue length: 68.05
+Max queue length: 107
+Teller utilization: 56.46%
+Total customers served: 394
+Total execution time: 0.00 seconds
+Total customers generated: 395
+Total customers served: 395
+Customers left in queue: 0
+395,394,1,161.87,939,215,68.05,107,56.46%,394
+Average wait time for served customers: 161.87
+Maximum wait time: 939
+Minimum wait time: 215
+Average queue length: 68.05
+Max queue length: 107
+Teller utilization: 56.46%
+Total customers served: 394
+Total execution time: 0.00 seconds
+Total customers generated: 395
+Total customers served: 395
+Customers left in queue: 0
+395,394,1,161.87,939,215,68.05,107,56.46%,394
+Average wait time for served customers: 161.87
+Maximum wait time: 939
+Minimum wait time: 215
+Average queue length: 68.05
+Max queue length: 107
+Teller utilization: 56.46%
+Total customers served: 394
+Total execution time: 0.00 seconds
+Total customers generated: 395
+Total customers served: 395
+Customers left in queue: 0
+395,394,1,161.87,939,215,68.05,107,56.46%,394
+Average wait time for served customers: 161.87
+Maximum wait time: 939
+Minimum wait time: 215
+Average queue length: 68.05
+Max queue length: 107
+Teller utilization: 56.46%
+Total customers served: 394
+Total execution time: 0.00 seconds
+Total customers generated: 395
+Total customers served: 395
+Customers left in queue: 0
+395,394,1,161.87,939,215,68.05,107,56.46%,394
+Average wait time for served customers: 161.87
+Maximum wait time: 939
+Minimum wait time: 215
+Average queue length: 68.05
+Max queue length: 107
+Teller utilization: 56.46%
+Total customers served: 394
+Total execution time: 0.00 seconds
+Total customers generated: 395
+Total customers served: 395
+Customers left in queue: 0
+395,394,1,161.87,939,215,68.05,107,56.46%,394
+Average wait time for served customers: 161.87
+Maximum wait time: 939
+Minimum wait time: 215
+Average queue length: 68.05
+Max queue length: 107
+Teller utilization: 56.46%
+Total customers served: 394
+Total execution time: 0.00 seconds
+Total customers generated: 395
+Total customers served: 395
+Customers left in queue: 0
+395,394,1,161.87,939,215,68.05,107,56.46%,394
+Average wait time for served customers: 161.87
+Maximum wait time: 939
+Minimum wait time: 215
+Average queue length: 68.05
+Max queue length: 107
+Teller utilization: 56.46%
+Total customers served: 394
+Total execution time: 0.00 seconds
+Total customers generated: 395
+Total customers served: 395
+Customers left in queue: 0
+395,394,1,161.87,939,215,68.05,107,56.46%,394
+Average wait time for served customers: 161.87
+Maximum wait time: 939
+Minimum wait time: 215
+Average queue length: 68.05
+Max queue length: 107
+Teller utilization: 56.46%
+Total customers served: 394
+Total execution time: 0.00 seconds
+Total customers generated: 395
+Total customers served: 395
+Customers left in queue: 0
+395,394,1,161.87,939,215,68.05,107,56.46%,394
+Average wait time for served customers: 161.87
+Maximum wait time: 939
+Minimum wait time: 215
+Average queue length: 68.05
+Max queue length: 107
+Teller utilization: 56.46%
+Total customers served: 394
+Total execution time: 0.00 seconds
+Total customers generated: 395
+Total customers served: 395
+Customers left in queue: 0
+395,394,1,161.87,939,215,68.05,107,56.46%,394
+Average wait time for served customers: 161.87
+Maximum wait time: 939
+Minimum wait time: 215
+Average queue length: 68.05
+Max queue length: 107
+Teller utilization: 56.46%
+Total customers served: 394
+Total execution time: 0.00 seconds
+Total customers generated: 395
+Total customers served: 395
+Customers left in queue: 0
+395,394,1,161.87,939,215,68.05,107,56.46%,394
+Average wait time for served customers: 161.87
+Maximum wait time: 939
+Minimum wait time: 215
+Average queue length: 68.05
+Max queue length: 107
+Teller utilization: 56.46%
+Total customers served: 394
+Total execution time: 0.00 seconds
+Total customers generated: 395
+Total customers served: 395
+Customers left in queue: 0
+395,394,1,161.87,939,215,68.05,107,56.46%,394
+Average wait time for served customers: 161.87
+Maximum wait time: 939
+Minimum wait time: 215
+Average queue length: 68.05
+Max queue length: 107
+Teller utilization: 56.46%
+Total customers served: 394
+Total execution time: 0.00 seconds
+Total customers generated: 395
+Total customers served: 395
+Customers left in queue: 0
+395,394,1,161.87,939,215,68.05,107,56.46%,394
+Average wait time for served customers: 161.87
+Maximum wait time: 939
+Minimum wait time: 215
+Average queue length: 68.05
+Max queue length: 107
+Teller utilization: 56.46%
+Total customers served: 394
+Total execution time: 0.00 seconds
+Total customers generated: 395
+Total customers served: 395
+Customers left in queue: 0
+395,394,1,161.87,939,215,68.05,107,56.46%,394
+Average wait time for served customers: 161.87
+Maximum wait time: 939
+Minimum wait time: 215
+Average queue length: 68.05
+Max queue length: 107
+Teller utilization: 56.46%
+Total customers served: 394
+Total execution time: 0.00 seconds
+Total customers generated: 395
+Total customers served: 395
+Customers left in queue: 0
+395,394,1,161.87,939,215,68.05,107,56.46%,394
+Average wait time for served customers: 161.87
+Maximum wait time: 939
+Minimum wait time: 215
+Average queue length: 68.05
+Max queue length: 107
+Teller utilization: 56.46%
+Total customers served: 394
+Total execution time: 0.00 seconds
+Total customers generated: 395
+Total customers served: 395
+Customers left in queue: 0
+395,394,1,161.87,939,215,68.05,107,56.46%,394
+Average wait time for served customers: 161.87
+Maximum wait time: 939
+Minimum wait time: 215
+Average queue length: 68.05
+Max queue length: 107
+Teller utilization: 56.46%
+Total customers served: 394
+Total execution time: 0.00 seconds
+Total customers generated: 395
+Total customers served: 395
+Customers left in queue: 0
+395,394,1,161.87,939,215,68.05,107,56.46%,394
+Average wait time for served customers: 161.87
+Maximum wait time: 939
+Minimum wait time: 215
+Average queue length: 68.05
+Max queue length: 107
+Teller utilization: 56.46%
+Total customers served: 394
+Total execution time: 0.00 seconds
+Total customers generated: 395
+Total customers served: 395
+Customers left in queue: 0
+395,394,1,161.87,939,215,68.05,107,56.46%,394
+Average wait time for served customers: 161.87
+Maximum wait time: 939
+Minimum wait time: 215
+Average queue length: 68.05
+Max queue length: 107
+Teller utilization: 56.46%
+Total customers served: 394
+Total execution time: 0.00 seconds
+Total customers generated: 395
+Total customers served: 395
+Customers left in queue: 0
+395,394,1,161.87,939,215,68.05,107,56.46%,394
+Average wait time for served customers: 161.87
+Maximum wait time: 939
+Minimum wait time: 215
+Average queue length: 68.05
+Max queue length: 107
+Teller utilization: 56.46%
+Total customers served: 394
+Total execution time: 0.00 seconds
+Total customers generated: 395
+Total customers served: 395
+Customers left in queue: 0
+395,394,1,161.87,939,215,68.05,107,56.46%,394
+Average wait time for served customers: 161.87
+Maximum wait time: 939
+Minimum wait time: 215
+Average queue length: 68.05
+Max queue length: 107
+Teller utilization: 56.46%
+Total customers served: 394
+Total execution time: 0.00 seconds
+Total customers generated: 395
+Total customers served: 395
+Customers left in queue: 0
+395,394,1,161.87,939,215,68.05,107,56.46%,394
+Average wait time for served customers: 161.87
+Maximum wait time: 939
+Minimum wait time: 215
+Average queue length: 68.05
+Max queue length: 107
+Teller utilization: 56.46%
+Total customers served: 394
+Total execution time: 0.00 seconds
+Total customers generated: 395
+Total customers served: 395
+Customers left in queue: 0
+395,394,1,161.87,939,215,68.05,107,56.46%,394
+Average wait time for served customers: 161.87
+Maximum wait time: 939
+Minimum wait time: 215
+Average queue length: 68.05
+Max queue length: 107
+Teller utilization: 56.46%
+Total customers served: 394
+Total execution time: 0.00 seconds
+Total customers generated: 395
+Total customers served: 395
+Customers left in queue: 0
+395,394,1,161.87,939,215,68.05,107,56.46%,394
+Average wait time for served customers: 161.87
+Maximum wait time: 939
+Minimum wait time: 215
+Average queue length: 68.05
+Max queue length: 107
+Teller utilization: 56.46%
+Total customers served: 394
+Total execution time: 0.00 seconds
+Total customers generated: 395
+Total customers served: 395
+Customers left in queue: 0
+395,394,1,161.87,939,215,68.05,107,56.46%,394
+Average wait time for served customers: 161.87
+Maximum wait time: 939
+Minimum wait time: 215
+Average queue length: 68.05
+Max queue length: 107
+Teller utilization: 56.46%
+Total customers served: 394
+Total execution time: 0.00 seconds
+Total customers generated: 395
+Total customers served: 395
+Customers left in queue: 0
+395,394,1,161.87,939,215,68.05,107,56.46%,394
+Average wait time for served customers: 161.87
+Maximum wait time: 939
+Minimum wait time: 215
+Average queue length: 68.05
+Max queue length: 107
+Teller utilization: 56.46%
+Total customers served: 394
+Total execution time: 0.00 seconds
+Total customers generated: 395
+Total customers served: 395
+Customers left in queue: 0
+395,394,1,161.87,939,215,68.05,107,56.46%,394
+Average wait time for served customers: 161.87
+Maximum wait time: 939
+Minimum wait time: 215
+Average queue length: 68.05
+Max queue length: 107
+Teller utilization: 56.46%
+Total customers served: 394
+Total execution time: 0.00 seconds
+Total customers generated: 395
+Total customers served: 395
+Customers left in queue: 0
+395,394,1,161.87,939,215,68.05,107,56.46%,394
+Average wait time for served customers: 161.87
+Maximum wait time: 939
+Minimum wait time: 215
+Average queue length: 68.05
+Max queue length: 107
+Teller utilization: 56.46%
+Total customers served: 394
+Total execution time: 0.00 seconds
+Total customers generated: 395
+Total customers served: 395
+Customers left in queue: 0
+395,394,1,161.87,939,215,68.05,107,56.46%,394
+Average wait time for served customers: 161.87
+Maximum wait time: 939
+Minimum wait time: 215
+Average queue length: 68.05
+Max queue length: 107
+Teller utilization: 56.46%
+Total customers served: 394
+Total execution time: 0.00 seconds
+Total customers generated: 388
+Total customers served: 388
+Customers left in queue: 0
+388,385,3,147.37,957,182,63.87,101,56.98%,385
+Average wait time for served customers: 147.37
+Maximum wait time: 957
+Minimum wait time: 182
+Average queue length: 63.87
+Max queue length: 101
+Teller utilization: 56.98%
+Total customers served: 385
+Total execution time: 0.00 seconds
+Total customers generated: 388
+Total customers served: 388
+Customers left in queue: 0
+388,385,3,147.37,957,182,63.87,101,56.98%,385
+Average wait time for served customers: 147.37
+Maximum wait time: 957
+Minimum wait time: 182
+Average queue length: 63.87
+Max queue length: 101
+Teller utilization: 56.98%
+Total customers served: 385
+Total execution time: 0.00 seconds
+Total customers generated: 388
+Total customers served: 388
+Customers left in queue: 0
+388,385,3,147.37,957,182,63.87,101,56.98%,385
+Average wait time for served customers: 147.37
+Maximum wait time: 957
+Minimum wait time: 182
+Average queue length: 63.87
+Max queue length: 101
+Teller utilization: 56.98%
+Total customers served: 385
+Total execution time: 0.00 seconds
+Total customers generated: 388
+Total customers served: 388
+Customers left in queue: 0
+388,385,3,147.37,957,182,63.87,101,56.98%,385
+Average wait time for served customers: 147.37
+Maximum wait time: 957
+Minimum wait time: 182
+Average queue length: 63.87
+Max queue length: 101
+Teller utilization: 56.98%
+Total customers served: 385
+Total execution time: 0.00 seconds
+Total customers generated: 388
+Total customers served: 388
+Customers left in queue: 0
+388,385,3,147.37,957,182,63.87,101,56.98%,385
+Average wait time for served customers: 147.37
+Maximum wait time: 957
+Minimum wait time: 182
+Average queue length: 63.87
+Max queue length: 101
+Teller utilization: 56.98%
+Total customers served: 385
+Total execution time: 0.00 seconds
+Total customers generated: 388
+Total customers served: 388
+Customers left in queue: 0
+388,385,3,147.37,957,182,63.87,101,56.98%,385
+Average wait time for served customers: 147.37
+Maximum wait time: 957
+Minimum wait time: 182
+Average queue length: 63.87
+Max queue length: 101
+Teller utilization: 56.98%
+Total customers served: 385
+Total execution time: 0.00 seconds
+Total customers generated: 388
+Total customers served: 388
+Customers left in queue: 0
+388,385,3,147.37,957,182,63.87,101,56.98%,385
+Average wait time for served customers: 147.37
+Maximum wait time: 957
+Minimum wait time: 182
+Average queue length: 63.87
+Max queue length: 101
+Teller utilization: 56.98%
+Total customers served: 385
+Total execution time: 0.00 seconds
+Total customers generated: 388
+Total customers served: 388
+Customers left in queue: 0
+388,385,3,147.37,957,182,63.87,101,56.98%,385
+Average wait time for served customers: 147.37
+Maximum wait time: 957
+Minimum wait time: 182
+Average queue length: 63.87
+Max queue length: 101
+Teller utilization: 56.98%
+Total customers served: 385
+Total execution time: 0.00 seconds
+Total customers generated: 388
+Total customers served: 388
+Customers left in queue: 0
+388,385,3,147.37,957,182,63.87,101,56.98%,385
+Average wait time for served customers: 147.37
+Maximum wait time: 957
+Minimum wait time: 182
+Average queue length: 63.87
+Max queue length: 101
+Teller utilization: 56.98%
+Total customers served: 385
+Total execution time: 0.00 seconds
+Total customers generated: 388
+Total customers served: 388
+Customers left in queue: 0
+388,385,3,147.37,957,182,63.87,101,56.98%,385
+Average wait time for served customers: 147.37
+Maximum wait time: 957
+Minimum wait time: 182
+Average queue length: 63.87
+Max queue length: 101
+Teller utilization: 56.98%
+Total customers served: 385
+Total execution time: 0.00 seconds

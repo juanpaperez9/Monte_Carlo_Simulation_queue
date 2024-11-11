@@ -2,10 +2,11 @@
 #include <stdlib.h>
 #include <time.h>
 #include <math.h>
+#include <omp.h>
 
 // Simulation constants
 #define TOTAL_SIMULATION_TIME 480 // 8 hours in minutes
-#define NUM_TELLERS 5             // Maximum number of tellers in the bank
+#define NUM_TELLERS 3             // Number of tellers in the bank
 #define ARRIVAL_RATE 5            // Average time (in minutes) between arrivals
 #define MAX_CUSTOMERS 1000        // Max number of customers that can arrive
 
@@ -26,7 +27,6 @@ void simulateArrivals();
 void simulateService();
 void analyzeResults();
 void setSimulationParameters(int total_simulation_time, int num_tellers, int arrival_rate);
-void resetVariables();
 
 // Global parameters for simulation
 int total_simulation_time = TOTAL_SIMULATION_TIME;
@@ -48,20 +48,18 @@ int main(int argc, char *argv[]) {
     // Seed the random number generator
     srand(time(NULL));
 
-    // Timing the execution
-    clock_t start_time = clock();
+    // Measure start time
+    double start_time = omp_get_wtime();
 
     // Initialize and run the simulation
-    resetVariables();
     simulateArrivals();
     simulateService();
     analyzeResults();
 
-    clock_t end_time = clock();
-    double time_taken = ((double)(end_time - start_time)) / CLOCKS_PER_SEC;
+    // Measure end time
+    double end_time = omp_get_wtime();
+    printf("Total execution time: %.2f seconds\n", end_time - start_time);
 
-    printf("Total execution time: %.2f seconds\n", time_taken);
-    
     return 0;
 }
 
@@ -92,49 +90,54 @@ void simulateArrivals() {
 // Simulate the service process for customers arriving at the bank
 void simulateService() {
     int tellers[num_tellers];
-    int teller_idle_time[num_tellers];
-    for (int i = 0; i < num_tellers; i++) {
-        tellers[i] = 0; // Tracks when each teller will be free
-        teller_idle_time[i] = 0; // Tracks idle time for each teller
-    }
+    for (int i = 0; i < num_tellers; i++) tellers[i] = 0; // Tracks when each teller will be free
     int queue[MAX_CUSTOMERS];       // Queue to hold waiting customers (store their indices)
     int queue_length = 0;
     int customers_served = 0;
-    int min_wait_time = MAX_CUSTOMERS;
 
     // Process each customer in the order they arrived
+    #pragma omp parallel for reduction(+:total_queue_length, customers_served) schedule(dynamic)
     for (int i = 0; i < total_customers; i++) {
         int arrival_time = customers[i].arrival_time;
         int service_time = customers[i].service_time;
         int teller_available = -1;
+        int min_teller_time = total_simulation_time + 1;
 
         // Check for an available teller
-        for (int j = 0; j < num_tellers; j++) {
-            if (tellers[j] <= arrival_time) { // Teller is free
-                // Calculate idle time for the teller
-                if (tellers[j] < arrival_time) {
-                    teller_idle_time[j] += (arrival_time - tellers[j]);
+        #pragma omp critical
+        {
+            for (int j = 0; j < num_tellers; j++) {
+                if (tellers[j] <= arrival_time && tellers[j] < min_teller_time) {
+                    min_teller_time = tellers[j];
+                    teller_available = j;
                 }
-                teller_available = j;
-                break;
             }
         }
-
+        
         if (teller_available != -1) {
             // Teller is available, serve the customer
-            customers[i].start_service_time = arrival_time;
-            customers[i].wait_time = 0;
-            tellers[teller_available] = arrival_time + service_time; // Update teller's next available time
-            customers_served++;
+            #pragma omp critical
+            {
+                customers[i].start_service_time = arrival_time;
+                customers[i].wait_time = 0;
+                tellers[teller_available] = arrival_time + service_time; // Update teller's next available time
+                customers_served++;
+            }
         } else {
             // No tellers are available, add customer to the queue
-            queue[queue_length++] = i;
+            #pragma omp critical
+            {
+                queue[queue_length++] = i;
+            }
         }
 
         // Track total queue length for average calculation
         total_queue_length += queue_length;
-        if (queue_length > max_queue_length) {
-            max_queue_length = queue_length;
+        #pragma omp critical
+        {
+            if (queue_length > max_queue_length) {
+                max_queue_length = queue_length;
+            }
         }
     }
 
@@ -146,44 +149,43 @@ void simulateService() {
         int earliest_teller = 0;
 
         // Find the earliest available teller
-        for (int j = 1; j < num_tellers; j++) {
-            if (tellers[j] < tellers[earliest_teller]) {
-                earliest_teller = j;
+        #pragma omp critical
+        {
+            for (int j = 1; j < num_tellers; j++) {
+                if (tellers[j] < tellers[earliest_teller]) {
+                    earliest_teller = j;
+                }
             }
         }
 
         // Assign customer to the earliest available teller
-        customers[customer_index].start_service_time = tellers[earliest_teller];
-        customers[customer_index].wait_time = tellers[earliest_teller] - arrival_time;
-        if (customers[customer_index].wait_time < min_wait_time && customers[customer_index].wait_time > 0) {
-            min_wait_time = customers[customer_index].wait_time;
-        }
-        tellers[earliest_teller] += service_time; // Update teller's next available time
-        customers_served++;
+        #pragma omp critical
+        {
+            customers[customer_index].start_service_time = tellers[earliest_teller];
+            customers[customer_index].wait_time = tellers[earliest_teller] - arrival_time;
+            tellers[earliest_teller] += service_time; // Update teller's next available time
+            customers_served++;
 
-        // Shift the queue
-        for (int k = 1; k < queue_length; k++) {
-            queue[k - 1] = queue[k];
-        }
-        queue_length--;
+            // Shift the queue
+            for (int k = 1; k < queue_length; k++) {
+                queue[k - 1] = queue[k];
+            }
+            queue_length--;
 
-        // Track total queue length for average calculation
-        total_queue_length += queue_length;
-        if (queue_length > max_queue_length) {
-            max_queue_length = queue_length;
+            // Track total queue length for average calculation
+            total_queue_length += queue_length;
+            if (queue_length > max_queue_length) {
+                max_queue_length = queue_length;
+            }
         }
     }
 
     // Calculate total idle time for all tellers
+    #pragma omp parallel for reduction(+:total_idle_time)
     for (int i = 0; i < num_tellers; i++) {
         if (tellers[i] < total_simulation_time) {
-            teller_idle_time[i] += (total_simulation_time - tellers[i]);
+            total_idle_time += (total_simulation_time - tellers[i]);
         }
-    }
-
-    // Summarize teller idle times
-    for (int i = 0; i < num_tellers; i++) {
-        total_idle_time += teller_idle_time[i];
     }
 
     printf("Total customers served: %d\n", customers_served);
@@ -194,31 +196,26 @@ void simulateService() {
 void analyzeResults() {
     int total_wait_time = 0;
     int served_customers = 0;
-    int max_wait_time = 0;
     int min_wait_time = MAX_CUSTOMERS;
+    int max_wait_time = 0;
 
+    #pragma omp parallel for reduction(+:total_wait_time, served_customers) reduction(min:min_wait_time) reduction(max:max_wait_time)
     for (int i = 0; i < total_customers; i++) {
         total_wait_time += customers[i].wait_time;
         if (customers[i].wait_time > 0 || customers[i].start_service_time != 0) {
             served_customers++;
         }
-        if (customers[i].wait_time > max_wait_time) {
-            max_wait_time = customers[i].wait_time;
-        }
         if (customers[i].wait_time < min_wait_time && customers[i].wait_time > 0) {
             min_wait_time = customers[i].wait_time;
+        }
+        if (customers[i].wait_time > max_wait_time) {
+            max_wait_time = customers[i].wait_time;
         }
     }
 
     double average_wait_time = (double)total_wait_time / served_customers;
     double average_queue_length = (double)total_queue_length / total_customers;
     double teller_utilization = 1.0 - ((double)total_idle_time / (num_tellers * total_simulation_time));
-
-    // Output in CSV format
-    printf("%d,%d,%d,%.2f,%d,%d,%.2f,%d,%.2f%%,%d\n",
-           total_customers, served_customers, (total_customers - served_customers), 
-           average_wait_time, max_wait_time, (min_wait_time == MAX_CUSTOMERS ? 0 : min_wait_time),
-           average_queue_length, max_queue_length, teller_utilization * 100, served_customers);
 
     printf("Average wait time for served customers: %.2f\n", average_wait_time);
     printf("Maximum wait time: %d\n", max_wait_time);
@@ -227,13 +224,5 @@ void analyzeResults() {
     printf("Max queue length: %d\n", max_queue_length);
     printf("Teller utilization: %.2f%%\n", teller_utilization * 100);
     printf("Total customers served: %d\n", served_customers);
-}
-
-// Reset global variables before each simulation run
-void resetVariables() {
-    total_customers = 0;
-    current_time = 0;
-    total_idle_time = 0;
-    total_queue_length = 0;
-    max_queue_length = 0;
+    
 }

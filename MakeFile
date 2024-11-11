@@ -6,21 +6,29 @@ CFLAGS = -fopenmp -Wall -O2
 SRC_DIR = src
 BUILD_DIR = build
 
-# Target executable name
-TARGET = BankQueueSimulation
+# Target executable names
+TARGET_SEQ = BankQueueSimulation
+TARGET_PAR = BankQueueSimulationOpenMP
 
 # Source files and object files
-SRC_FILES = $(wildcard $(SRC_DIR)/*.c)
-OBJ_FILES = $(patsubst $(SRC_DIR)/%.c, $(BUILD_DIR)/%.o, $(SRC_FILES))
+SRC_FILES_SEQ = $(wildcard $(SRC_DIR)/BankQueueSimulation.c)
+OBJ_FILES_SEQ = $(patsubst $(SRC_DIR)/%.c, $(BUILD_DIR)/%.o, $(SRC_FILES_SEQ))
 
-# Default target to build the program
-all: $(TARGET)
+SRC_FILES_PAR = $(wildcard $(SRC_DIR)/BankQueueSimulationOpenMP.c)
+OBJ_FILES_PAR = $(patsubst $(SRC_DIR)/%.c, $(BUILD_DIR)/%.o, $(SRC_FILES_PAR))
 
-# Linking the object files to create the executable
-$(TARGET): $(OBJ_FILES)
+# Default target to build both versions
+all: $(TARGET_SEQ) $(TARGET_PAR)
+
+# Linking the object files to create the sequential executable
+$(TARGET_SEQ): $(OBJ_FILES_SEQ)
 	$(CC) $(CFLAGS) -o $@ $^
 
-# Compiling each .c file to an .o file
+# Linking the object files to create the parallel executable
+$(TARGET_PAR): $(OBJ_FILES_PAR)
+	$(CC) $(CFLAGS) -o $@ $^
+
+# Compiling each .c file to an .o file for sequential and parallel versions
 $(BUILD_DIR)/%.o: $(SRC_DIR)/%.c | $(BUILD_DIR)
 	$(CC) $(CFLAGS) -c $< -o $@
 
@@ -30,31 +38,81 @@ $(BUILD_DIR):
 
 # Clean up build files
 clean:
-	rm -rf $(BUILD_DIR) $(TARGET)
+	rm -rf $(BUILD_DIR) $(TARGET_SEQ) $(TARGET_PAR)
 
-# Run scenarios
-run_normal:
-	@.\$(TARGET) 480 3 5 > simulation_output.txt
+# Run scenarios with GUI and terminal output for sequential version
+run_normal_seq:
+	@echo ">> Running normal simulation (Sequential)..."
+	@$(TARGET_SEQ) 960 3 3 > simulation_output_seq.txt
 	@python gui/gui.py run_normal
 
-run_rush_hour:
-	@.\$(TARGET) 240 5 2 > simulation_output.txt
+run_rush_hour_seq:
+	@echo ">> Running rush hour simulation (Sequential)..."
+	@$(TARGET_SEQ) 240 5 2 > simulation_output_seq.txt
 	@python gui/gui.py run_rush_hour
 
-run_off_peak:
-	@.\$(TARGET) 480 2 10 > simulation_output.txt
+run_off_peak_seq:
+	@echo ">> Running off-peak simulation (Sequential)..."
+	@$(TARGET_SEQ) 960 2 10 > simulation_output_seq.txt
 	@python gui/gui.py run_off_peak
 
-# Run GUI after running the normal simulation
-run_gui:
-	@python gui/gui.py
+# Run scenarios with GUI and terminal output for parallel version
+run_normal_par:
+	@echo ">> Running normal simulation (Parallel)..."
+	@$(TARGET_PAR) 960 3 3 > simulation_output_par.txt
+	@python gui/gui.py run_normal
+
+run_rush_hour_par:
+	@echo ">> Running rush hour simulation (Parallel)..."
+	@$(TARGET_PAR) 240 5 2 > simulation_output_par.txt
+	@python gui/gui.py run_rush_hour
+
+run_off_peak_par:
+	@echo ">> Running off-peak simulation (Parallel)..."
+	@$(TARGET_PAR) 960 2 10 > simulation_output_par.txt
+	@python gui/gui.py run_off_peak
+
+# Batch run scenarios for data collection (Sequential)
+run_batch_normal_seq:
+	@echo "Running batch of normal simulations (Sequential)..."
+	@for /l %%i in (1, 1, 200) do $(TARGET_SEQ) 960 3 3 >> batch_normal_output_seq.txt
+
+run_batch_rush_hour_seq:
+	@echo "Running batch of rush hour simulations (Sequential)..."
+	@for /l %%i in (1, 1, 200) do $(TARGET_SEQ) 240 5 2 >> batch_rush_hour_output_seq.txt
+
+run_batch_off_peak_seq:
+	@echo "Running batch of off-peak simulations (Sequential)..."
+	@for /l %%i in (1, 1, 200) do $(TARGET_SEQ) 960 2 10 >> batch_off_peak_output_seq.txt
+
+# Batch run scenarios for data collection (Parallel)
+run_batch_normal_par:
+	@echo "Running batch of normal simulations (Parallel)..."
+	@for /l %%i in (1, 1, 200) do $(TARGET_PAR) 960 3 3 >> batch_normal_output_par.txt
+
+run_batch_rush_hour_par:
+	@echo "Running batch of rush hour simulations (Parallel)..."
+	@for /l %%i in (1, 1, 200) do $(TARGET_PAR) 240 5 2 >> batch_rush_hour_output_par.txt
+
+run_batch_off_peak_par:
+	@echo "Running batch of off-peak simulations (Parallel)..."
+	@for /l %%i in (1, 1, 200) do $(TARGET_PAR) 960 2 10 >> batch_off_peak_output_par.txt
 
 # Help command to list all available make commands
 help:
 	@echo "Available make commands:"
-	@echo "  all            - Compile the program"
-	@echo "  clean          - Remove all build files"
-	@echo "  run_normal     - Run the normal simulation (8 hours, 3 tellers, avg. 5 min between arrivals)"
-	@echo "  run_rush_hour  - Run the rush hour simulation (4 hours, 5 tellers, avg. 2 min between arrivals)"
-	@echo "  run_off_peak   - Run the off-peak simulation (8 hours, 2 tellers, avg. 10 min between arrivals)"
-	@echo "  run_gui        - Run the GUI to display simulation results"
+	@echo "  all                     - Compile both sequential and parallel programs"
+	@echo "  clean                   - Remove all build files"
+	@echo "  run_normal_seq          - Run the normal simulation (Sequential, 16 hours, 3 tellers, avg. 3 min between arrivals)"
+	@echo "  run_rush_hour_seq       - Run the rush hour simulation (Sequential, 4 hours, 5 tellers, avg. 2 min between arrivals)"
+	@echo "  run_off_peak_seq        - Run the off-peak simulation (Sequential, 16 hours, 2 tellers, avg. 10 min between arrivals)"
+	@echo "  run_normal_par          - Run the normal simulation (Parallel, 16 hours, 3 tellers, avg. 3 min between arrivals)"
+	@echo "  run_rush_hour_par       - Run the rush hour simulation (Parallel, 4 hours, 5 tellers, avg. 2 min between arrivals)"
+	@echo "  run_off_peak_par        - Run the off-peak simulation (Parallel, 16 hours, 2 tellers, avg. 10 min between arrivals)"
+	@echo "  run_batch_normal_seq    - Run 100 normal simulations for data collection (Sequential)"
+	@echo "  run_batch_rush_hour_seq - Run 100 rush hour simulations for data collection (Sequential)"
+	@echo "  run_batch_off_peak_seq  - Run 100 off-peak simulations for data collection (Sequential)"
+	@echo "  run_batch_normal_par    - Run 100 normal simulations for data collection (Parallel)"
+	@echo "  run_batch_rush_hour_par - Run 100 rush hour simulations for data collection (Parallel)"
+	@echo "  run_batch_off_peak_par  - Run 100 off-peak simulations for data collection (Parallel)"
+	@echo "  run_gui                 - Run the GUI to display simulation results"
